@@ -115,12 +115,12 @@
    padding-bottom: 2px;
    font-weight: bold;
 }
-.post .post-content img{
+.posts .post-content img{
    width: 100%;
    height: 100%;
    object-fit:contain;
 }
-.post .post-footer{
+.posts .post-footer{
    display: flex;
    justify-content: space-between ;
 
